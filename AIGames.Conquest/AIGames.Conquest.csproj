@@ -83,7 +83,6 @@
     <Content Include="Games\Warlight-map.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

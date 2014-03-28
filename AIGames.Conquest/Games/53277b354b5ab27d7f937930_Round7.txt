@@ -1,0 +1,5 @@
+﻿Round 7
+
+update_map 12 player1 7 21 player1 1 22 player1 1 23 player1 6 25 player1 1 10 player2 1 11 player2 2 13 player2 1 18 neutral 2 20 neutral 2 24 neutral 2 36 neutral 2 26 neutral 1
+
+opponent_moves player2 place_armies 10 3 player2 attack/transfer 10 11 3 player2 attack/transfer 10 12 3
